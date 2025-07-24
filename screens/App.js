@@ -5,10 +5,10 @@ import React from 'react';
 import { NavigationContainer } from '@react-navigation/native';
 import { createNativeStackNavigator } from '@react-navigation/native-stack';
 
-import LoginScreen from './screens/LoginScreen'; // Make sure this file exists
-import ViolationManagement from './screens/ViolationManagement'; // Make sure this file exists
-import VerifiedScreens from './screens/VerifiedScreens'; // ✅ Make sure filename and name match
-import Statistics from './screens/Statistics';
+import LoginScreen from './LoginScreen'; // Make sure this file exists
+import ViolationManagement from './ViolationManagement'; // Make sure this file exists
+import VerifiedScreens from './VerifiedScreens'; // ✅ Make sure filename and name match
+import Statistics from './Statistics';
 
 
 
